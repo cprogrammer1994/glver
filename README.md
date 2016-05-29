@@ -1,6 +1,6 @@
 # glver
 
-![Python 3.5](https://raw.githubusercontent.com/cprogrammer1994/glver/master/Docs/Python35.png)<br>
+![Python 3.5](https://raw.githubusercontent.com/cprogrammer1994/glver/master/Badges/Python35.png)<br>
 Print gl version with two lines of script
 
 # Install
