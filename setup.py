@@ -8,7 +8,7 @@ glver = Extension(
 
 setup(
 	name = 'glver',
-	version = '0.1.1',
+	version = '1.0.0',
 	description = 'Python: Determine OpenGL version.',
 	author = 'Szabolcs Dombi',
 	author_email = 'cprogrammer1994@gmail.com',
