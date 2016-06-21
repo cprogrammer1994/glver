@@ -13,9 +13,9 @@ python -m glver
 # How to use
 
 ```
-python -m glver                   # will print the vendor, renderer and version
+python -m glver                   # will print the vendor, the renderer and the version
 python -m glver info              # will print a tuple
-python -m glver vendor renderer   # will print the vendor and version
+python -m glver vendor renderer   # will print the vendor and the renderer
 python -m glver version           # will print the version
 python -m glver extensions        # will print the extensions
 python -m glver error             # will print the error (use this if you get 'UNKNOWN' values)
